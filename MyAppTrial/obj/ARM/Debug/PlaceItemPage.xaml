@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="MyAppTrial.PlaceItemPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyAppTrial"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Blue">
+
+    <Grid HorizontalAlignment="Right" Margin="0,0.333,0,-0.333" Width="400">
+        <TextBlock x:Name="NametextBlock" HorizontalAlignment="Left" Margin="10,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="40" RenderTransformOrigin="-0.629,-3.662" Height="112" Width="390" FontFamily="Axure Handwriting" FontStyle="Italic"/>
+        <TextBlock x:Name="AddresstextBlock" HorizontalAlignment="Right" Margin="0,417,12,0" TextWrapping="Wrap" Text="Address: " VerticalAlignment="Top" FontSize="32" Width="388" Height="116" />
+        <Image x:Name="image" HorizontalAlignment="Left" Height="218" Margin="52,117,0,0" VerticalAlignment="Top" Width="241" Stretch="Fill"/>
+        <TextBlock x:Name="CitytextBlock" HorizontalAlignment="Right" Margin="0,533,10,0" TextWrapping="Wrap" Text="City:" VerticalAlignment="Top" FontSize="32" Width="388"/>
+        <TextBlock x:Name="CategorytextBlock" HorizontalAlignment="Right" Margin="0,371,10,0" TextWrapping="Wrap" Text="Category:" VerticalAlignment="Top" FontSize="32" Width="388" Foreground="#FF14EEE4" FontStyle="Italic" Height="46"/>
+        <ToggleButton x:ConnectionId='1' x:Name="toggleButtonExit" Content="Exit" HorizontalAlignment="Left" Margin="291,665,0,-83" VerticalAlignment="Top" FontSize="26.667" Background="Red"                                RenderTransformOrigin="0.405,-1.228" Height="58"/>
+        <ToggleButton x:ConnectionId='2' x:Name="toggleButtonBack" Content="Back" HorizontalAlignment="Left" Margin="2,666,0,-84" VerticalAlignment="Top" FontSize="26.667" Background="Gray" RenderTransformOrigin="0.589,-1.096"                                Height="55" Width="81"/>
+
+    </Grid>
+</Page>
+

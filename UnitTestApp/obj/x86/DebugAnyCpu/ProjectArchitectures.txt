@@ -1,0 +1,2 @@
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\MyAppTrial.csproj;neutral
+C:\Users\Thilini\Desktop\MyAppTrial\UnitTestApp\UnitTestApp.csproj;x86

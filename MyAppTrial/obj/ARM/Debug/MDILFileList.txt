@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Files>
+  <file>\Flurl.dll</file>
+  <file>\Flurl.Http.dll</file>
+  <file>\Microsoft.Threading.Tasks.dll</file>
+  <file>\Microsoft.Threading.Tasks.Extensions.dll</file>
+  <file>\Microsoft.Threading.Tasks.Extensions.Phone.dll</file>
+  <file>\Microsoft.Xaml.Interactions.dll</file>
+  <file>\Microsoft.Xaml.Interactivity.dll</file>
+  <file>\MyAppTrial.exe</file>
+  <file>\Newtonsoft.Json.dll</file>
+  <file>\PCLStorage.Abstractions.dll</file>
+  <file>\PCLStorage.dll</file>
+  <file>\System.Net.Http.Extensions.dll</file>
+  <file>\System.Net.Http.Primitives.dll</file>
+  <file>\System.Device.Portable.dll</file>
+</Files>

@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="MyAppTrial.SecondPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyAppTrial"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Blue">
+    <Page.BottomAppBar>
+        <CommandBar Background="#FF11228D">
+            <AppBarButton x:ConnectionId='1' x:Name="Cancel" Icon="Cancel" Label="exit"                      />
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid>
+        <TextBlock x:Name="textBlock5" HorizontalAlignment="Left" Margin="0,10,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontFamily="Goudy Old Style" FontSize="45.333" Width="400" Height="79" Foreground="#FFB5E8F0" Text="Welcome to TraTRIP" FontStyle="Italic"/>
+        <TextBlock x:ConnectionId='2' x:Name="textBlock6" HorizontalAlignment="Left" Margin="43,145,0,0" TextWrapping="Wrap" Text="Show Places" VerticalAlignment="Top" FontSize="32"                           />
+        <TextBlock x:ConnectionId='3' x:Name="textBlock7" HorizontalAlignment="Left" Margin="43,232,0,0" TextWrapping="Wrap" Text="Show Hotels" VerticalAlignment="Top" FontSize="32"                           />
+        <TextBlock x:ConnectionId='4' x:Name="textBlock8" HorizontalAlignment="Left" Margin="43,412,0,0" TextWrapping="Wrap" Text="Login" VerticalAlignment="Top" FontSize="32"                           />
+        <TextBlock x:ConnectionId='5' x:Name="textBlock9" HorizontalAlignment="Left" Margin="43,320,0,0" TextWrapping="Wrap" Text="Your Trips" VerticalAlignment="Top" FontSize="32"                           />
+        <TextBlock x:ConnectionId='6' x:Name="visit" HorizontalAlignment="Left" Margin="43,502,0,0" TextWrapping="Wrap" Text="Visit TraTRIP" VerticalAlignment="Top" FontSize="32" RenderTransformOrigin="0.594,2.948"                      />
+
+    </Grid>
+</Page>
+

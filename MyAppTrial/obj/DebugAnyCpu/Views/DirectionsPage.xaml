@@ -1,0 +1,36 @@
+﻿<Page
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyAppTrial"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:Maps="using:Windows.UI.Xaml.Controls.Maps"
+    x:Class="MyAppTrial.DirectionsPage"
+    mc:Ignorable="d"
+    Background="Blue">
+
+    <Page.BottomAppBar>
+        <CommandBar Background="#FF11228D">
+            <CommandBar.PrimaryCommands>
+                <AppBarButton x:ConnectionId='1' x:Name="Me" Icon="MapPin" Label="route steps"                  IsEnabled="False" />
+                <AppBarButton x:ConnectionId='2' x:Name="Back" Icon="Street" Label="place location"                    />
+                <AppBarButton x:ConnectionId='3' x:Name="Directions" Icon="Go" Label="directions"                          />
+                <AppBarButton x:ConnectionId='4' x:Name="Cancel" Icon="Cancel" Label="cancel"                      />
+            </CommandBar.PrimaryCommands>
+            <CommandBar.SecondaryCommands>
+                <AppBarButton x:ConnectionId='5' x:Name="MyLocation" Label="My Location"                          />
+                <AppBarButton x:ConnectionId='6' x:Name="Road" Label="Road"                   />
+                <AppBarButton x:ConnectionId='7' x:Name="Aerial" Label="Aerial"                     />
+                <AppBarButton x:ConnectionId='8' x:Name="AR" Label="Aerial With Roads"                 />
+            </CommandBar.SecondaryCommands>
+
+        </CommandBar>
+
+    </Page.BottomAppBar>
+
+    <Grid>
+        <Maps:MapControl x:ConnectionId='9' x:Name="map" HorizontalAlignment="Left" VerticalAlignment="Top" Height="669" Width="457" Margin="0,0,-57,-89"                    />
+
+    </Grid>
+</Page>
+

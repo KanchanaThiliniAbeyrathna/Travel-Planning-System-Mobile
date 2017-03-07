@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="c:\users\thilini\desktop\myapptrial\myapptrial\obj\arm\release\intermediatexaml\myapptrial.exe" HashGuid="fde724ee-f4bb-7e28-c0a6-37a27a857447" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactions.dll" HashGuid="95a94f94-3917-d473-4f7c-18c4bd437046" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\behaviorsxamlsdkmanaged\12.0\references\commonconfiguration\neutral\microsoft.xaml.interactivity.dll" HashGuid="d25f59e6-dd81-900a-0dfc-55b39f6898ef" />
+    <ReferenceAssembly PathName="c:\users\thilini\desktop\myapptrial\packages\flurl.2.0.0\lib\portable-net40+win+wpa81+wp80+monoandroid10+monotouch10\flurl.dll" HashGuid="71afa136-89bb-bab4-31ba-c0cc2f490119" />
+    <ReferenceAssembly PathName="c:\users\thilini\desktop\myapptrial\packages\flurl.http.0.10.0\lib\portable-net45+win+wpa81+wp80\flurl.http.dll" HashGuid="2b40a6bb-805e-cfe6-139d-99e9b6879899" />
+    <ReferenceAssembly PathName="c:\users\thilini\desktop\myapptrial\packages\microsoft.bcl.async.1.0.168\lib\wp8\microsoft.threading.tasks.dll" HashGuid="3a1beea5-1547-d5c6-af32-3b5c761c2a6a" />
+    <ReferenceAssembly PathName="c:\users\thilini\desktop\myapptrial\packages\microsoft.bcl.async.1.0.168\lib\wp8\microsoft.threading.tasks.extensions.dll" HashGuid="79a01987-c06c-c9d7-37eb-629809787680" />
+    <ReferenceAssembly PathName="c:\users\thilini\desktop\myapptrial\packages\microsoft.bcl.async.1.0.168\lib\wp8\microsoft.threading.tasks.extensions.phone.dll" HashGuid="f6981463-5ab0-6e62-0166-3973183c89d3" />
+    <ReferenceAssembly PathName="c:\users\thilini\desktop\myapptrial\packages\newtonsoft.json.8.0.3\lib\portable-net45+wp80+win8+wpa81+dnxcore50\newtonsoft.json.dll" HashGuid="74af0f9d-4f96-68dd-0977-2bb867adf196" />
+    <ReferenceAssembly PathName="c:\users\thilini\desktop\myapptrial\packages\pclstorage.1.0.2\lib\portable-win8+wpa81\pclstorage.abstractions.dll" HashGuid="736550c0-daf7-fc43-5e2e-a9023a3ecf57" />
+    <ReferenceAssembly PathName="c:\users\thilini\desktop\myapptrial\packages\pclstorage.1.0.2\lib\portable-win8+wpa81\pclstorage.dll" HashGuid="b3c72855-4fce-2ada-bc0f-5135882cc5d5" />
+    <ReferenceAssembly PathName="c:\users\thilini\desktop\myapptrial\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.extensions.dll" HashGuid="794366f8-cc6d-f0fa-3d07-33b45136e193" />
+    <ReferenceAssembly PathName="c:\users\thilini\desktop\myapptrial\packages\microsoft.net.http.2.2.29\lib\wpa81\system.net.http.primitives.dll" HashGuid="7b71418d-e056-7613-c839-85fb8f6472a6" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

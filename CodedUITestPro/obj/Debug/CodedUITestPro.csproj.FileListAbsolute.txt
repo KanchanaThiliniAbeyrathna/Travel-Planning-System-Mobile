@@ -1,0 +1,16 @@
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\bin\Debug\CodedUITestPro.dll
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\bin\Debug\CodedUITestPro.pdb
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\bin\Debug\CodedUITestPro.pri
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\CodedUITestPro.dll
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\CodedUITestPro.pdb
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\priconfig.xml
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\priconfig.xml.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\layout.resfiles
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\layout.resfiles.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\resources.resfiles
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\resources.resfiles.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\pri.resfiles
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\pri.resfiles.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\qualifiers.txt
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\Debug\MultipleQualifiersPerDimensionFound.txt

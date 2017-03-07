@@ -1,0 +1,145 @@
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\bin\Debug\App.xbf
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\bin\Debug\MainPage.xbf
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\bin\Debug\MyAppTrial.xr.xml
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\bin\Debug\MyAppTrial.exe
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\bin\Debug\MyAppTrial.pdb
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\bin\Debug\resources.pri
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\bin\Debug\AppxManifest.xml
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\bin\Debug\MyAppTrial.build.appxrecipe
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\App.g.i.cs
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\App.g.cs
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\MainPage.g.i.cs
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\MainPage.g.cs
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\XamlTypeInfo.g.cs
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\App.xaml
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\App.xbf
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\XamlSaveStateFile.xml
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\MainPage.xaml
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\MainPage.xbf
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\MyAppTrial.exe
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\MyAppTrial.pdb
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\priconfig.xml
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\priconfig.xml.intermediate
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\layout.resfiles
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\layout.resfiles.intermediate
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\resources.resfiles
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\resources.resfiles.intermediate
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\pri.resfiles
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\pri.resfiles.intermediate
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\qualifiers.txt
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\qualifiers.txt.intermediate
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+E:\Visual Studio 2015\Projects\WP\MyAppTrial\MyAppTrial\obj\Debug\ProjectArchitectures.txt
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\MyAppTrial.exe.config
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\App.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Views\RouteSteps.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Views\DirectionsPage.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Views\HotelItemPage.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Views\Hotels.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Views\LoginPage.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Views\MainPage.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Views\PlaceItemPage.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Views\Places.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Views\SecondPage.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Views\TripPageItem.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Views\Trips.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\MyAppTrial.xr.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\MyAppTrial.exe
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\MyAppTrial.pdb
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\resources.pri
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\AppxManifest.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\MyAppTrial.build.appxrecipe
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Microsoft.Xaml.Interactions.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Microsoft.Xaml.Interactivity.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Flurl.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Flurl.Http.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Microsoft.Threading.Tasks.Extensions.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\PCLStorage.Abstractions.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\PCLStorage.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\System.Device.Portable.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Flurl.pdb
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Flurl.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Flurl.Http.pdb
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Flurl.Http.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Microsoft.Threading.Tasks.Extensions.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Microsoft.Threading.Tasks.Extensions.Phone.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\PCLStorage.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\PCLStorage.Abstractions.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\App.g.i.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\App.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\RouteSteps.g.i.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\RouteSteps.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\DirectionsPage.g.i.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\DirectionsPage.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\HotelItemPage.g.i.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\HotelItemPage.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\Hotels.g.i.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\Hotels.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\LoginPage.g.i.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\LoginPage.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\MainPage.g.i.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\MainPage.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\PlaceItemPage.g.i.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\PlaceItemPage.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\Places.g.i.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\Places.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\SecondPage.g.i.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\SecondPage.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\TripPageItem.g.i.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\TripPageItem.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\Trips.g.i.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\Trips.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\App.xaml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\RouteSteps.xaml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\DirectionsPage.xaml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\HotelItemPage.xaml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\Hotels.xaml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\LoginPage.xaml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\MainPage.xaml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\PlaceItemPage.xaml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\Places.xaml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\SecondPage.xaml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\TripPageItem.xaml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\Trips.xaml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\App.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\RouteSteps.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\DirectionsPage.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\HotelItemPage.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\Hotels.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\LoginPage.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\MainPage.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\PlaceItemPage.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\Places.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\SecondPage.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\TripPageItem.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\Views\Trips.xbf
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\MyAppTrial.exe
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\MyAppTrial.pdb
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\System.Device.Portable\en-GB\System.Device.Properties.Resources.resw
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\MyAppTrial.csproj.GenerateResource.Cache
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\System.Device.Portable.pri
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\System.Device.Portable\qualifiers.txt
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\priconfig.xml
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\priconfig.xml.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\layout.resfiles
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\layout.resfiles.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\resources.resfiles
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\resources.resfiles.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\pri.resfiles
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\pri.resfiles.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\qualifiers.txt
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\ProjectArchitectures.txt
+C:\Users\Thilini\Desktop\MyAppTrial\MyAppTrial\obj\Debug\MyAppTrial.csprojResolveAssemblyReference.cache

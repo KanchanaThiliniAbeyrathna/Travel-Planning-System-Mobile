@@ -1,0 +1,18 @@
+﻿<Page
+    x:Class="MyAppTrial.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyAppTrial"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Blue">
+
+    <Grid>
+        <Grid x:Name="LayoutRoot"  Style="{StaticResource LayoutGridStyle}"  HorizontalAlignment="Left" Height="129" Margin="20,148,0,0" VerticalAlignment="Top" Width="380"/>
+        <Button x:ConnectionId='1' x:Name="go_button" Content="Go !" HorizontalAlignment="Left" Margin="140,318,0,0" VerticalAlignment="Top" FontSize="48" Width="125"                         RenderTransformOrigin="0.741,0.238" Height="92"/>
+        <Button x:ConnectionId='2' x:Name="login_button" Content="Login" HorizontalAlignment="Left" Margin="114,421,0,0" VerticalAlignment="Top" FontSize="32" Width="182" Background="#FF11228D" Height="83"                           />
+
+    </Grid>
+</Page>
+

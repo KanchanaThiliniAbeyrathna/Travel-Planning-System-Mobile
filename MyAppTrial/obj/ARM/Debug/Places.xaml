@@ -1,0 +1,44 @@
+﻿<Page x:ConnectionId='1'
+    x:Class="MyAppTrial.Places"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyAppTrial"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Blue"                     >
+
+    <Grid Margin="0,74.333,0,-0.333">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="21*"/>
+            <ColumnDefinition Width="19*"/>
+        </Grid.ColumnDefinitions>
+        <ListView x:ConnectionId='2' x:Name="placeslist" Margin="5,5,5,77" Grid.ColumnSpan="2"                            >
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Height="110" Margin="6">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <Border Background="{StaticResource ListViewItemPlaceholderBackgroundThemeBrush}" Width="110" Height="110">
+                            <Image Source="{Binding img}" Stretch="UniformToFill"/>
+                        </Border>
+                        <StackPanel Grid.Column="1" VerticalAlignment="Top" Margin="10,0,0,0">
+                            <TextBlock Text="{Binding name}"  TextWrapping="NoWrap" FontSize="32"/>
+                            <TextBlock Text="{Binding category}"  TextWrapping="NoWrap"/>
+                            <TextBlock Text="{Binding address}"  TextWrapping="NoWrap"/>
+                            <TextBlock Text="{Binding city}"  TextWrapping="NoWrap"/>
+
+                        </StackPanel>
+                    </Grid>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="35,-60,0,0" TextWrapping="Wrap" Text="Places" VerticalAlignment="Top" FontSize="48" FontStyle="Italic" FontWeight="Bold"/>
+        <ToggleButton x:ConnectionId='3' x:Name="toggleButtonExit" Content="Exit" HorizontalAlignment="Left" Margin="76,580,0,-72" VerticalAlignment="Top" FontSize="26.667" Background="Red"                                RenderTransformOrigin="0.405,-1.228" Grid.Column="1" Height="58" Width="108"/>
+        <ToggleButton x:ConnectionId='4' x:Name="toggleButtonBack" Content="Back" HorizontalAlignment="Left" Margin="5,581,0,-73" VerticalAlignment="Top" FontSize="26.667" Background="Gray" RenderTransformOrigin="0.589,-1.096"                                Height="55" Width="81"/>
+
+    </Grid>
+</Page>
+

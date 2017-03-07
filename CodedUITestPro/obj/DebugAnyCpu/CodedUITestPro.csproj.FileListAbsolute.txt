@@ -1,0 +1,16 @@
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\bin\DebugAnyCpu\CodedUITestPro.dll
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\bin\DebugAnyCpu\CodedUITestPro.pdb
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\bin\DebugAnyCpu\CodedUITestPro.pri
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\CodedUITestPro.dll
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\CodedUITestPro.pdb
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\priconfig.xml
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\priconfig.xml.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\layout.resfiles
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\layout.resfiles.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\resources.resfiles
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\resources.resfiles.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\pri.resfiles
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\pri.resfiles.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\qualifiers.txt
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\qualifiers.txt.intermediate
+C:\Users\Thilini\Desktop\MyAppTrial\CodedUITestPro\obj\DebugAnyCpu\MultipleQualifiersPerDimensionFound.txt

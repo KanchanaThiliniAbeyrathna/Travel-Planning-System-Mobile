@@ -1,0 +1,28 @@
+﻿<Page
+    x:Class="MyAppTrial.HotelItemPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MyAppTrial"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="Blue">
+    <Page.BottomAppBar>
+        <CommandBar Background="#FF11228D">
+            <AppBarButton x:Name="Back" Icon="Back" Label="back" Click="Back_Click"/>
+            <AppBarButton x:Name="Home" Icon="Home" Label="home" Click="Home_Click"/>
+            <AppBarButton x:Name="Directions" Icon="Map" Label="location" Click="Directions_Click"/>
+            <AppBarButton x:Name="Cancel" Icon="Cancel" Label="exit" Click="Cancel_Click"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+
+    <Grid HorizontalAlignment="Right" Margin="0,0.333,0,-0.333" Width="400">
+        <TextBlock x:Name="NametextBlock" HorizontalAlignment="Left" Margin="10,0,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" FontSize="40" RenderTransformOrigin="-0.629,-3.662" Height="112" Width="390" FontFamily="Axure Handwriting" FontStyle="Italic"/>
+        <TextBlock x:Name="AddresstextBlock" HorizontalAlignment="Right" Margin="0,358,-60,0" TextWrapping="Wrap" Text="Address: " VerticalAlignment="Top" FontSize="24" Width="458" Height="132" />
+        <Image x:Name="image" HorizontalAlignment="Left" Height="179" Margin="47,117,0,0" VerticalAlignment="Top" Width="168" Stretch="Fill"/>
+        <TextBlock x:Name="WebsitetextBlock" HorizontalAlignment="Right" Margin="0,558,-58,-7" TextWrapping="Wrap" Text="Website:" VerticalAlignment="Top" FontSize="24" Width="458"/>
+        <TextBlock x:Name="EmailextBlock" HorizontalAlignment="Right" Margin="0,529,-60,0" TextWrapping="Wrap" Text="Email:" VerticalAlignment="Top" FontSize="24" Width="458"/>
+        <TextBlock x:Name="CitytextBlock" HorizontalAlignment="Right" Margin="0,495,-60,0" TextWrapping="Wrap" Text="City:" VerticalAlignment="Top" FontSize="24" Width="458"/>
+        <TextBlock x:Name="CategorytextBlock" HorizontalAlignment="Right" Margin="0,301,20,0" TextWrapping="Wrap" Text="Category:" VerticalAlignment="Top" FontSize="24" Width="380" Foreground="#FF14EEE4" FontStyle="Italic" Height="43"/>
+    </Grid>
+</Page>
